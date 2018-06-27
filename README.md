@@ -1,2 +1,1 @@
-# checkStatusUSCIS
-Two little Python scripts that help me see how many people have has their OPT proceessed
+As an international student, waiting for my OPT to be approved is so frustrated. I refreshed the page like 10 thousands time to see if there is any new update. One of my friend told me I can just change the number before and after my number to see how many people apply around my time get approved and how many still waiting so, to do it in a bigger scales, I wrote these scripts in Python to do it for me. Hope it helps you with the situation!
